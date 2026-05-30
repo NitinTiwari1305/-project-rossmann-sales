@@ -8,7 +8,7 @@
 
 *Obs: The business problem is fictitious, although both company and data are real.*
 
-*The in-depth Python code explanation is available in [this]((https://github.com/NitinTiwari1305/-project-rossmann-sales/blob/main/rossmann.ipynb)) Jupyter Notebook.*
+*The in-depth Python code explanation is available in [this](https://github.com/NitinTiwari1305/-project-rossmann-sales/blob/main/rossmann.ipynb) Jupyter Notebook.*
 
 # 1. **Rossmann and Business Problem**
 <p align="justify"> Rossmann is one of the largest drug store chains in Europe, with operations in Germany, Poland, Hungary, the Czech Republic, Turkey, Albania, Kosovo and Spain. Their sales can be influenced by promotions, competition, school and state holidays, seasonality, locality, etc.</p>
@@ -66,9 +66,9 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
 
 - <b> Feature Engineering </b>: Creating new features from the original ones, so that those could be used in the ML model. 
 
-- <p align="justify"> <b> Exploratory Data Analysis (EDA) </b>: Exploring the data in order to obtain business experience, look for useful business insights and find important features for the ML model. The top business insights found are available in <a href="https://github.com/NitinTiwari1305/-project-rossmann-sales#5-top-business-insights"> Section 5 </a>. </p>
+- <p align="justify"> <b> Exploratory Data Analysis (EDA) </b>: Exploring the data in order to obtain business experience, look for useful business insights and find important features for the ML model. The top business insights found are available in <a href="#5-top-business-insights"> Section 5 </a>. </p>
 
-- <b> Data Preparation </b>: Applying <a href="https://www.atoti.io/articles/when-to-perform-a-feature-scaling/">Normalization and Rescaling Techniques</a> in the data, as well as <a href="https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/">Enconding Methods</a> and Response Variable Transformation.
+- <b> Data Preparation </b>: Applying <a href="https://www.atoti.io/articles/when-to-perform-a-feature-scaling/">Normalization and Rescaling Techniques</a> in the data, as well as <a href="https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/">Encoding Methods</a> and Response Variable Transformation.
 
 - <b> Feature Selection </b>: Selecting the best features to use in the ML model by applying the <a href="https://www.section.io/engineering-education/getting-started-with-boruta-algorithm/">Boruta Algorithm</a>. 
 
